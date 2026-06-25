@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/IIT BBS INTERNSHIP/LiteWing-main/build/CMakeFiles/bootloader
+D:/IIT BBS INTERNSHIP/LiteWing-main/build/CMakeFiles/bootloader.rule
+D:/IIT BBS INTERNSHIP/LiteWing-main/build/CMakeFiles/bootloader-complete.rule
+D:/IIT BBS INTERNSHIP/LiteWing-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/IIT BBS INTERNSHIP/LiteWing-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/IIT BBS INTERNSHIP/LiteWing-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/IIT BBS INTERNSHIP/LiteWing-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/IIT BBS INTERNSHIP/LiteWing-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/IIT BBS INTERNSHIP/LiteWing-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/IIT BBS INTERNSHIP/LiteWing-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
